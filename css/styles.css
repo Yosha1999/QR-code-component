@@ -7,22 +7,9 @@ body{
     background-color: #fff;
     text-align: center;
     width: 270px;
-    margin: auto;
+    margin: 75px auto auto;
     padding: 12px 0;
     border-radius: 17px;
-    position: absolute;
-    top: 13%;
-    bottom: 14%;
-    right: 0;
-    left: 0;
-}
-
-@media (max-width:1238px){
-    .main{
-        position: absolute;
-        top: 9%;
-        bottom: 5%;
-    }
 }
 
 img{
